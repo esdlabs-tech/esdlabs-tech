@@ -3,7 +3,7 @@
 <hr>
 - 👋 Hi, I’m @esdlabs-tech
 <br>
-- 👀 I’m interested in Web Development, Web2 and Web3, Blockchain, Linux, AI's, Open-Source projects.
+- 👀 I’m interested in Programming,Developement on Web2 and Web3, Blockchain, Linux, AI's, Open-Source projects.
 <br>
 - 🌱 I’m currently learning HTML5, CSS, PHP.
 <br>
