@@ -14,6 +14,8 @@
 - ⚡ Fun fact: Im addicted to watch boxing!
 
 
+
+
 <hr>
 <h1> ⚙️ My skills </h1>
 
@@ -54,6 +56,8 @@
 
 <strong>Cloud</strong><br>
 ![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=Nextcloud&logoColor=white)
+<br>
+
 <strong>Design</strong><br>
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
@@ -115,6 +119,11 @@
 ![teamspeak](https://img.shields.io/badge/TeamSpeak-2580C3?style=for-the-badge&logo=teamspeak&logoColor=white)
 ![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
+
+<hr>
+
+![ESDLabs GitHub stats](https://github-readme-stats.vercel.app/api?username=esdlabs-tech&show_icons=true&theme=blue_navy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esdlabs-tech&layout=compact)](https://github.com/esdlabs-tech/github-readme-stats)
 
 
 <!---
