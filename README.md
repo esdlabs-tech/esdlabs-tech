@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @EduardoSLDev
+- 👋 Hi, I’m @esdlabs-tech
 - 👀 I’m interested in Web Development, Web2 and Web3, Blockchain, Linux, AI's, Open-Source projects.
 - 🌱 I’m currently learning HTML5, CSS, PHP.
 - 💞️ I’m looking to collaborate on any type of open source project that is similar to my tastes or interests.
-- 📫 How to reach me eduardosldev@proton.me
+- 📫 How to reach me:
 - ⚡ Fun fact: Im addicted to watch boxing!
 
 <!---
