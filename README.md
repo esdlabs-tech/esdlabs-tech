@@ -1,3 +1,4 @@
+<img url(https://www.canva.com/design/DAGEArUOcFs/93_tX79_MmM1PWLPwUUweg/view?utm_content=DAGEArUOcFs&utm_campaign=designshare&utm_medium=link&utm_source=editor)>
 - 👋 Hi, I’m @esdlabs-tech
 - 👀 I’m interested in Web Development, Web2 and Web3, Blockchain, Linux, AI's, Open-Source projects.
 - 🌱 I’m currently learning HTML5, CSS, PHP.
