@@ -1,7 +1,6 @@
 <h1>Welcome to my Profile</h1>
 <img alt="image header" src="https://i.imgur.com/LbPpdND.png"/> 
 <hr>
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fesdlabs-tech&countColor=%23263759&style=plastic)
 - 👋 Hi, I’m @esdlabs-tech
 <br>
 - 👀 I’m interested in Programming,Developement on Web2 and Web3, Blockchain, Linux, AI's, Open-Source projects.
@@ -18,6 +17,8 @@
 
 
 <hr>
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fesdlabs-tech&countColor=%23263759&style=plastic)
 <h1> ⚙️ My skills ⚙️</h1>
 
 <strong>🛠️ Dev & Programming Languages 🛠️</strong> <br>
