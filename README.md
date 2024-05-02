@@ -1,5 +1,5 @@
 <h1>Welcome to my Profile</h1>
-<img alt="image header" src="https://i.imgur.com/HdnDEiZ.png"/> 
+<img alt="image header" src="https://i.imgur.com/LbPpdND.png"/> 
 <hr>
 - 👋 Hi, I’m @esdlabs-tech
 <br>
