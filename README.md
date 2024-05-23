@@ -52,8 +52,14 @@
 <a href="https://getcomposer.org/" target="_blank">
 ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white)
 </a>
+<a href="https://laravel.com/" target="_blank">
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+</a>
 <a href="https://en.wikipedia.org/wiki/Markdown" target="_blank">
 ![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+</a>
+<a href="https://nodejs.org/en" target="_blank">
+![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 </a>
 <a href="https://www.apachefriends.org/es/index.html" target="_blank">
 ![XAMPP](	https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
