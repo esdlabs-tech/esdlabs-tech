@@ -217,7 +217,7 @@
 <hr>
 
 ![ESDLabs GitHub stats](https://github-readme-stats.vercel.app/api?username=esdlabs-tech&show_icons=true&theme=blue_navy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esdlabs-tech&layout=compact)](https://github.com/esdlabs-tech/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esdlabs-tech)](https://github.com/esdlabs-tech/github-readme-stats)
 
 
 <!---
