@@ -5,7 +5,7 @@
 <br>
 - 👀 I’m interested in Programming,Developement on Web2 and Web3, Blockchain, Linux, AI's, Open-Source projects.
 <br>
-- 🌱 I’m currently learning HTML5, CSS, PHP.
+- 🌱 I’m currently learning JavaScript, PHP and SQL.
 <br>
 - 💞️ I’m looking to collaborate on any type of open source project that is similar to my tastes or interests.
 <br>
