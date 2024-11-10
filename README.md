@@ -5,7 +5,7 @@
 <br>
 - 👀 I’m interested in Programming,Developement on Web2 and Web3, Blockchain, Linux, AI's, Open-Source projects.
 <br>
-- 🌱 I’m currently learning JavaScript, PHP and SQL.
+- 🌱 I’m currently learning different progamming languages and new technologies.
 <br>
 - 💞️ I’m looking to collaborate on any type of open source project that is similar to my tastes or interests.
 <br>
@@ -65,6 +65,7 @@
 <a href="https://www.apachefriends.org/es/index.html" target="_blank">
 ![XAMPP](	https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 </a>
+![Hugo Badge](https://img.shields.io/badge/Hugo-FF4088?logo=hugo&logoColor=fff&style=for-the-badge)
 <br>
 
 <strong>🤖 Artificial Intelligence 🤖</strong> <br>
@@ -85,6 +86,8 @@
 <a href="https://learn.xrpl.org/" target="_blank">
 ![XRP](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)
 </a>
+![Hedera Badge](https://img.shields.io/badge/Hedera-222?logo=hedera&logoColor=fff&style=for-the-badge)
+![Algorand Badge](https://img.shields.io/badge/Algorand-000?logo=algorand&logoColor=fff&style=for-the-badge)
 <br>
 
 
@@ -97,6 +100,8 @@
 </a>
 <a href="https://pages.github.com/" target="_blank">
 ![GitHubPages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
+</a>
+![Hugo Badge](https://img.shields.io/badge/Hugo-FF4088?logo=hugo&logoColor=fff&style=for-the-badge)
 <br>
 
 
@@ -177,7 +182,9 @@
 <a href="https://trello.com/" target="_blank">
 ![trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 </a>
+![Glide Badge](https://img.shields.io/badge/Glide-18BED4?logo=glide&logoColor=fff&style=for-the-badge)
 
+<hr>
 
 <h1>📀 OS 📀</h1><br>
 
@@ -201,6 +208,9 @@
 <a href="https://www.microsoft.com/en-us/windows/?r=1" target="_blank">
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 </a>
+![Lubuntu Badge](https://img.shields.io/badge/Lubuntu-0068C8?logo=lubuntu&logoColor=fff&style=for-the-badge)
+
+<hr>
 
 
 
